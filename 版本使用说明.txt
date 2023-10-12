@@ -1,0 +1,2 @@
+Android版本使用说明：请下载termux.apk 输入命令pkg install python 使用pip工具安装python库执行.py程序即可使用本工具
+PC版本使用说明：直接执行.exe程序
